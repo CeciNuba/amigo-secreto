@@ -1,3 +1,5 @@
 Proyecto: amigo-secreto
 
-En Construcción
+El arhivo README está en construcción.
+
+El código del proyecto está finalizado.
